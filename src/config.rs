@@ -118,7 +118,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.tacholil.app"];
-pub const RS_PUB_KEY: &str = "pC9Sl4uiWSSA5qL2kELeOcqhkpjPd4zBlYtMtYKMwl0=";
+pub const RS_PUB_KEY: &str = "8afywRK955l68sdd3ORCSLxTe7TqEakWaFc2gNhKPWA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
